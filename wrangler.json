@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cors-proxy-news",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "9749b7c1-b3d2-4c4a-8b36-495b6fe07f08",
+			"database_name": "cors-proxy-news-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
